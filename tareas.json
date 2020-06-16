@@ -1,0 +1,27 @@
+[
+  {
+    "titulo": "Prácticar inglés",
+    "descripcion": "Entender un poco de grámatica",
+    "estado": "terminada"
+  },
+  {
+    "titulo": "Prácticar el switch",
+    "descripcion": "Entender para que puedo usarlo",
+    "estado": "terminada"
+  },
+  {
+    "titulo": "Nueva tarea dos",
+    "descripcion": "descripcion",
+    "estado": "terminada"
+  },
+  {
+    "titulo": "nueva tarea modularizada",
+    "descripcion": "descripcion",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "Crear función listar",
+    "descripcion": "Lista las tareas según estado(opcional)",
+    "estado": "pendiente"
+  }
+]

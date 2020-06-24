@@ -4,6 +4,6 @@ _Aplicación de tareas para el curso FullStack-Web Digital House_
 
 ## Construido con 🛠️
 
-* Node - Entorno de ejecucipo
-* Chalk - Dependencia usada para agregar colores
+* Node - Entorno de ejecución
+* Chalk - Dependencia para agregar colores
 
